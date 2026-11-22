@@ -1,0 +1,20 @@
+{
+  "name": "vastra-local-fashion",
+  "version": "1.0.0",
+  "description": "VASTRA - Local Clothing Marketplace. Connecting local shops and boutiques with city customers.",
+  "scripts": {
+    "build": "echo 'VASTRA is ready'",
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "clothing",
+    "fashion",
+    "marketplace",
+    "local-shopping",
+    "boutiques",
+    "india"
+  ],
+  "author": "VASTRA",
+  "license": "MIT"
+}
