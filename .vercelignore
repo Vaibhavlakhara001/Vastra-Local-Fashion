@@ -1,2 +1,2 @@
-# Ignore local server script on Vercel deployment
-server.js
+local-dev-server.js
+README.md

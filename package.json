@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "VASTRA - Local Clothing Marketplace. Connecting local shops and boutiques with city customers.",
   "scripts": {
-    "build": "echo 'VASTRA is ready'",
-    "start": "node server.js",
-    "dev": "node server.js"
+    "build": "echo 'VASTRA static build ready'",
+    "start": "node local-dev-server.js",
+    "dev": "node local-dev-server.js"
   },
   "keywords": [
     "clothing",
